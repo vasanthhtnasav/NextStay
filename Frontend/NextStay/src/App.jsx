@@ -201,7 +201,7 @@ function App() {
 
           <div className="footer-column">
             <h4>Support</h4>
-            <a href="#">Help Center</a>
+            <a href="#">Vasanth</a>
             <a href="#">FAQs</a>
             <a href="#">Terms of Service</a>
             <a href="#">Privacy Policy</a>
@@ -212,6 +212,11 @@ function App() {
           <p>&copy; {new Date().getFullYear()} NextStay. All rights reserved.</p>
         </div>
       </footer>
+    </div>
+  )
+  return (
+    <div>
+      <h1>Hello World</h1>
     </div>
   )
 }
