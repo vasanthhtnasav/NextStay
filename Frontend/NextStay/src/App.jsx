@@ -57,8 +57,7 @@ function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.7, duration: 0.8 }}
           >
-            Discover, review, and manage Paying Guest accommodations effortlessly
-            with NextStay's intelligent platform.
+            CLOUD CHANGES
           </motion.p>
 
           <motion.div 
